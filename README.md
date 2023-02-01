@@ -5,12 +5,12 @@
 <p>Criei a estrutura do banco com a ajuda do XAMPP e fiz a exportação do arquivo</p>
 <hr/>
 
-<h1>PERGUNTAS FEITAS NO TRABALHO</h1>
+<h1>PERGUNTAS DO TRABALHO</h1>
 <p>Existem outras entidades além dessas três?</p>
 <p>Quais são os principais campos e tipos?</p>
 <p>Como essas entidades estão relacionadas?</p>
 
 <h1>RESPOSTAS</h1>
-<p>Sim, eu colocaria a entidade "Professor".</p>
-<p>Matricula_aluno, id_turma e id_curso</p>
+<p>Sim, eu coloquei a entidade "Professor".</p>
+<p>Matricula_aluno, turma_id e curso_id</p>
 <p>Curso 'possui' turma 'contem' aluno</p>
